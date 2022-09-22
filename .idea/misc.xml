@@ -6,8 +6,8 @@
         <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/btn1.xml" value="0.30364583333333334" />
         <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/btn2.xml" value="0.24914529914529915" />
-        <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/btn3.xml" value="0.1" />
-        <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/explain.xml" value="0.30364583333333334" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/btn3.xml" value="0.264" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/explain.xml" value="0.1" />
         <entry key="..\:/Users/Y/AndroidStudioProjects/main2/app/src/main/res/layout/no_parcel_main.xml" value="0.30364583333333334" />
       </map>
     </option>
@@ -17,5 +17,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>

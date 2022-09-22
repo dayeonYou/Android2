@@ -58,6 +58,7 @@
             android:layout_height="wrap_content"
             android:text="Toast Message Setting"
             android:textSize="18dp"
+            android:clickable="false"
             android:layout_marginTop="40dp"/>
 
         <Switch
