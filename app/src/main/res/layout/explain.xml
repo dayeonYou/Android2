@@ -24,13 +24,6 @@
         </TextView>
 
     </LinearLayout>
-<!--    <TextView-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="match_parent"-->
-<!--        android:text="Instructions for use\n\nCamera\nIn this section, a camera is prepared so that you can know information such as the invoice of your package\n\nReservation\n In this section, you can schedule time to turn on the camera\n\nSetting\nIn this section, you can set up for notifications and know how to use them"-->
-<!--        android:textSize="25dp"-->
-<!--        android:gravity="center">-->
 
-<!--    </TextView>-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
